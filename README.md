@@ -19,7 +19,7 @@ python quote_scraper.py
 
   
 
-    Oscar Wilde
+  Oscar Wilde
 
 
 Author:
