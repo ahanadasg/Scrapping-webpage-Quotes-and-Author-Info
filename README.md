@@ -31,7 +31,7 @@ Quote:
 
   
 
-    Marilyn Monroe
+  Marilyn Monroe
 
 
 Author:
@@ -43,7 +43,7 @@ Quote:
 
   
 
-    Albert Einstein
+   Albert Einstein
 
 
 Author:
@@ -55,7 +55,7 @@ Quote:
 
   
 
-    Frank Zappa
+  Frank Zappa
 
 
 Author:
@@ -67,7 +67,7 @@ Quote:
 
   
 
-    Marcus Tullius Cicero
+  Marcus Tullius Cicero
 
 
 Author:
@@ -79,7 +79,7 @@ Quote:
 
   
 
-    Bernard M. Baruch
+  Bernard M. Baruch
 
 
 Author:
@@ -91,7 +91,7 @@ Quote:
 
   
 
-    William W. Purkey
+  William W. Purkey
 
 
 Author:
@@ -103,7 +103,7 @@ Quote:
 
   
 
-    Dr. Seuss
+  Dr. Seuss
 
 
 Author:
@@ -115,7 +115,7 @@ Quote:
 
   
 
-    Mae West
+  Mae West
 
 
 Author:
@@ -127,7 +127,7 @@ Quote:
 
   
 
-    Mahatma Gandhi
+  Mahatma Gandhi
 
 
 Author:
@@ -139,7 +139,7 @@ Quote:
 
   
 
-    Robert Frost
+  Robert Frost
 
 
 Author:
@@ -151,7 +151,7 @@ Quote:
 
   
 
-    J.K. Rowling,
+  J.K. Rowling,
 
 
 Harry Potter and the Goblet of Fire
@@ -168,7 +168,7 @@ Quote:
 
   
 
-    Albert Camus
+  Albert Camus
 
 
 Author:
@@ -180,7 +180,7 @@ Quote:
 
   
 
-    Mark Twain
+  Mark Twain
 
 
 Author:
@@ -192,7 +192,7 @@ Quote:
 
   
 
-    C.S. Lewis,
+  C.S. Lewis,
 
 
 The Four Loves
@@ -208,7 +208,7 @@ Quote:
 
   
 
-    Maya Angelou
+   Maya Angelou
 
 
 Author:
@@ -220,7 +220,7 @@ Quote:
 
   
 
-    Elbert Hubbard
+   Elbert Hubbard
 
 
 Author:
@@ -232,7 +232,7 @@ Quote:
 
   
 
-    Oscar Wilde
+  Oscar Wilde
 
 
 Author:
@@ -244,7 +244,7 @@ Quote:
 
   
 
-    Oscar Wilde
+   Oscar Wilde
 
 
 Author:
@@ -256,7 +256,7 @@ Quote:
 
   
 
-    Martin Luther King Jr.,
+   Martin Luther King Jr.,
 
 
 A Testament of Hope: The Essential Writings and Speeches
@@ -272,7 +272,7 @@ Quote:
 
   
 
-    Mahatma Gandhi
+   Mahatma Gandhi
 
 
 Author:
@@ -284,7 +284,7 @@ Quote:
 
   
 
-    Stephen Chbosky,
+  Stephen Chbosky,
 
 
 The Perks of Being a Wallflower
@@ -300,7 +300,7 @@ Quote:
 
   
 
-    Friedrich Nietzsche,
+   Friedrich Nietzsche,
 
 
 Twilight of the Idols
@@ -316,7 +316,7 @@ Quote:
 
   
 
-    Oscar Wilde,
+   Oscar Wilde,
 
 
 The Happy Prince and Other Stories
@@ -332,7 +332,7 @@ Quote:
 
   
 
-    Ralph Waldo Emerson
+   Ralph Waldo Emerson
 
 
 Author:
@@ -344,7 +344,7 @@ Quote:
 
   
 
-    Steve Jobs
+  Steve Jobs
 
 
 Author:
@@ -356,7 +356,7 @@ Quote:
 
   
 
-    Narcotics Anonymous
+  Narcotics Anonymous
 
 
 Author:
@@ -368,7 +368,7 @@ Quote:
 
   
 
-    Marilyn Monroe
+   Marilyn Monroe
 
 
 Author:
@@ -380,7 +380,7 @@ Quote:
 
   
 
-    Andre Gide,
+   Andre Gide,
 
 
 Autumn Leaves
@@ -396,7 +396,7 @@ Quote:
 
   
 
-    H. Jackson Brown Jr.,
+   H. Jackson Brown Jr.,
 
 
 P.S. I Love You
