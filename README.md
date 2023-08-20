@@ -2,8 +2,11 @@
 ## Step 1: Install Beautiful Soup and Requests
 Make sure you have Python installed on your system. Open command prompt and type the following:
 
-pip install beautifulsoup4
-pip install requests
+<pre>
+  '''pip install beautifulsoup4
+     pip install requests'''
+
+</pre>
 
 
 ## Step 2: Write the Web Scraping Code
@@ -15,7 +18,7 @@ cd “Directory in which the python script is downloaded”
 python quote_scraper.py
 
 ## Output:
-*“Be yourself; everyone else is already taken.”
+“Be yourself; everyone else is already taken.”
 
   
 
@@ -406,6 +409,6 @@ P.S. I Love You
 Author:
     H. Jackson Brown Jr.,
 
---------------------*
+--------------------
 
 
