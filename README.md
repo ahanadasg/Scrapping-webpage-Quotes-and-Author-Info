@@ -3,8 +3,8 @@
 Make sure you have Python installed on your system. Open command prompt and type the following:
 
 <pre>
-  '''pip install beautifulsoup4
-     pip install requests'''
+  pip install beautifulsoup4
+  pip install requests
 
 </pre>
 
@@ -14,8 +14,10 @@ Open Google Colab. Create a new Python script (e.g., `quote_scraper.py`) and add
 
 ## Step 3: Run the Script
 Open your command prompt, and type the following:
+<pre>
 cd “Directory in which the python script is downloaded”
 python quote_scraper.py
+</pre>
 
 ## Output:
 “Be yourself; everyone else is already taken.”
